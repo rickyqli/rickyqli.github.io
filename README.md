@@ -28,14 +28,9 @@
 ├── photography.html        # 摄影画廊页面
 ├── styles.css             # 主样式表
 ├── script.js              # JavaScript 功能
-├── CV-Honghui Chen-0925.pdf  # 个人简历
+├── CV-ricky.pdf           # 个人简历
 ├── pic/                   # 图片目录
 │   ├── BG.jpeg           # 主页背景
-│   ├── BG2.JPG           # 摄影页背景
 │   ├── CV.png            # 简历图标
-│   ├── personal2.jpg     # 个人照片
 │   ├── logos/            # 机构标志
-│   ├── Personal/         # 个人摄影
-│   ├── landscape/        # 风景摄影
-│   └── Documentary/      # 纪实摄影
 └── README.md             # 本文件
